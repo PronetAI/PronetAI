@@ -4,3 +4,6 @@ At Pronet I make easy to use porjects for people to use and create their items o
 ![](https://komarev.com/ghpvc/?username=PronetAI&color=red) 
 
 ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=PronetAI&theme=github)
+
+![](https://github.com/PronetAI/github-stats/blob/master/generated/overview.svg)
+![](https://github.com/PronetAI/github-stats/blob/master/generated/languages.svg)
