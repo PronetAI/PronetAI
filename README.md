@@ -1,5 +1,5 @@
 # Hi there! I make Artifical intelligence and machine learning projects.
-At Pronet I make easy to use porjects for people to use and create their items on. Like for example, one could use my nueral network technology for a product they have that requires machine learning, including but not limited to speech regoniction, human and person recognition and face id. I hope to see you using it and please check outsome of my projects!
+I am Vihaan Mehta. I am make easy to sue AI and Machine learning projects for people to use. This is targeted towards buisnesses, who want to enhance their customers expierecne wiht Machine learning and AI. Since this is becoming a esstianl parts of the futrue, it is important to invest now! Just to get an idea for what machine learning and AI can do, some examples are speech recognition, Face ID,
 
 ![](https://komarev.com/ghpvc/?username=PronetAI&color=red) 
 
