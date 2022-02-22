@@ -9,17 +9,7 @@ Hi everyone, I am Vihaan Mehta, a software programmer and a electrical hardware 
 - Pronet Self Driving Car: The Pronet Self Driving car is the worlds first autonmous veichle code written in Python3 and uses no machine learning or artifical intelligence modules such as numpy or tensorflow. It can easily navigate obstacales and tough situations with ease, and along with the algoritm we have provided a pygame module based simulator.
   - [Pronet Self-Driving Car Project Page link](https://github.com/PronetAI/Pronet-Self-Driving-Car) 
   ```python
-def rectLineIntersect (x, y, w, h, pt1, pt2):
-    rectL1 = ((x,y), (x+w,y))
-    rectL2 = ((x,y), (x,y+h))
-    rectL3 = ((x+w,y), (x+w,y+h))
-    rectL4 = ((x,y+h), (x+w,y+h))
     poi1 = calculatePOI((x,y),(x+w,y), pt1, pt2) != False
-    poi2 = calculatePOI((x,y),(x,y+h), pt1, pt2) != False
-    poi3 = calculatePOI((x+w,y),(x+w,y+h), pt1, pt2) != False
-    poi4 = calculatePOI((x,y+h),(x+w,y+h), pt1, pt2) != False
-    return poi1 or poi2 or poi3 or poi4
-
   ```
  - PyBlock Module: The Pyblock module is revolutionizing the way users inteact with python. We have made it so much more easier to use and incorparte Python on a mass scale for consumers and companies to use.
    - [PyBlock Project Page link](https://github.com/PronetAI/Pyblock-Module) 
