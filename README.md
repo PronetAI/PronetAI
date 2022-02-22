@@ -13,7 +13,7 @@ Hi everyone, I am Vihaan Mehta, a software programmer and a electrical hardware 
   for item in dict_code():
     if in == item[10211]: print(str(item[4045])+' '+in[for items in in(3): print(items))
   ```
- - PyBlock Module: The Pyblock module is revolutionizing the way users inteact with python. We have made is every so more easier to use and incorparte Python on a mass scale for consumers and companies to use.
+ - PyBlock Module: The Pyblock module is revolutionizing the way users inteact with python. We have made it so much more easier to use and incorparte Python on a mass scale for consumers and companies to use.
    - [PyBlock Project Page link](https://github.com/PronetAI/Pyblock-Module) 
    ```python
    # This is to install pip on OS
