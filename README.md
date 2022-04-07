@@ -24,6 +24,11 @@ Hi everyone, I am Vihaan Mehta, a software programmer and a electrical hardware 
         os.system('python example_project/setup.py sdist bdist_wheel')
         os.system('twine upload dist/*')
    ```
+<table>
+<tr><td> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leomotors&layout=compact&langs_count=10&count_private=true&theme=dark" /> </td>
+<td> <img src="https://github-readme-stats.vercel.app/api?username=Leomotors&count_private=true&theme=dark" /> </td></tr>
+<tr><td colspan="2" align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Leomotors&theme=dark" /> </td></tr>
+</table>
 ![](https://komarev.com/ghpvc/?username=PronetAI&color=red) 
 ![](https://img.shields.io/badge/OS-macOS&nbsp;11-informational?style=flat&logo=mac&logoColor=red&color=FF4545)
 ![](https://img.shields.io/badge/Editor-PyCharm&nbsp;-informational?style=flat&logo=pycharm&logoColor=red&color=FF4545)
