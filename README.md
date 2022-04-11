@@ -25,7 +25,4 @@ Hi everyone, I am Vihaan Mehta, a software programmer and a electrical hardware 
 ![](https://img.shields.io/badge/OS-macOS&nbsp;11-informational?style=flat&logo=mac&logoColor=red&color=FF4545)
 ![](https://img.shields.io/badge/Editor-PyCharm&nbsp;-informational?style=flat&logo=pycharm&logoColor=red&color=FF4545)
 ![](https://img.shields.io/badge/Shell-Terminal-informational?style=flat&logo=terminal&logoColor=red&color=FF4545)
-<table>
-<tr><td> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PronetAI&layout=compact&langs_count=10&count_private=true&theme=dark" /> </td>
-<td> <img src="https://github-readme-stats.vercel.app/api?username=PronetAI&count_private=true&theme=dark" /> </td></tr>
-</table>
+
