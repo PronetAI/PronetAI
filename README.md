@@ -1,5 +1,5 @@
 # Welcome to Pronet's Github Page!
-Hi everyone, I am Vihaan Mehta, a software programmer and a electrical hardware enthuisast. I mainly program in Python (pygame, flask, pymongo), C/C++, HTML, CSS, and Dart + Flutter. I spend a lot of time devolping and creating solutions using Arduino Microcontroller boards. In this profile, I program solutions and simplfy hard concepts to easy to manipulate interfaces. I also  make fun programs that showcase real world applications.
+Hi everyone, I am a software programmer and a electrical hardware enthuisast. I mainly program in Python (pygame, flask, pymongo), C/C++, HTML, CSS, and Dart + Flutter. I spend a lot of time devolping and creating solutions using Arduino Microcontroller boards. In this profile, I program solutions and simplfy hard concepts to easy to manipulate interfaces. I also make fun programs that showcase real world applications.
 ## Projects
 - ANN Alpha: The ANN Alpha is a program that is revolutionizing the Machine Learning world. We have finally made the worlds first lightweight Machine Learning algorithm for microcontrollers. It is very easy to use and can be modified easily and customized per your needs.
   ```c
@@ -25,4 +25,3 @@ Hi everyone, I am Vihaan Mehta, a software programmer and a electrical hardware 
 ![](https://img.shields.io/badge/OS-macOS&nbsp;11-informational?style=flat&logo=mac&logoColor=red&color=FF4545)
 ![](https://img.shields.io/badge/Editor-PyCharm&nbsp;-informational?style=flat&logo=pycharm&logoColor=red&color=FF4545)
 ![](https://img.shields.io/badge/Shell-Terminal-informational?style=flat&logo=terminal&logoColor=red&color=FF4545)
-
