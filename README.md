@@ -22,6 +22,7 @@ Hi everyone, I am a software programmer and a electrical hardware enthuisast. I 
         os.system('twine upload dist/*')
    ```
    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pronetai)](https://github.com/anuraghazra/github-readme-stats)
+   <br>
 ![](https://komarev.com/ghpvc/?username=PronetAI&color=red) 
 ![](https://img.shields.io/badge/OS-macOS&nbsp;11-informational?style=flat&logo=mac&logoColor=red&color=FF4545)
 ![](https://img.shields.io/badge/Editor-PyCharm&nbsp;-informational?style=flat&logo=pycharm&logoColor=red&color=FF4545)
